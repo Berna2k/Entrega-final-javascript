@@ -1,0 +1,88 @@
+h1{
+    color: #B50218;
+    font-size: 45px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    overflow: auto;
+    padding: 0.5rem;
+}
+
+#formCliente{
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#botonMostrarClientes{
+      padding: 10px;
+      padding-left: 1rem;
+      padding-right: 1rem;
+      font-weight: 600;
+      font-size: 15px;
+      font-family: 'Montserrat', sans-serif;
+      color: #ffffff;
+      background-color: #B50218;
+      border-radius: 40px;
+      border: 2px solid #B50218;}
+
+    #botonMostrarClientes:hover {
+      border: 2px solid #fff; }
+
+body{
+    background-color: #FFF2F8;
+}
+
+.divInput{
+    display: flex;
+    justify-content: center;
+}
+
+#inputUsuario{
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#parrafoUsuario{
+    text-align: center;
+    color: #B50218;
+}
+
+#botonCargar{
+    padding: 10px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    background-color: #B50218;
+    border-radius: 40px;
+    border: 2px solid #B50218;
+}
+
+#botonCargar:hover{
+    border: 2px solid #fff;
+}
+
+.btn{
+    padding: 10px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-weight: 600;
+    font-size: 15px;
+    font-family: 'Montserrat', sans-serif;
+    color: #000;
+    background-color: #fff;
+    border-radius: 40px;
+    border: 2px solid #B50218;
+}
+
+.btn:hover{
+    background-color: #B50218;
+}

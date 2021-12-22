@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Pote de helado",
+        "sabor": "Marroc",
+        "peso": "1KG",
+        "precio": 800,
+        "img": "./assets/marroc.jpeg"
+    },
+    {
+        "nombre": "Pote de helado",
+        "sabor": "Kinder",
+        "peso": "1KG",
+        "precio": 800,
+        "img": "./assets/kinder.jpeg"
+    },
+    {
+        "nombre": "Pote de helado",
+        "sabor": "Maracuya",
+        "peso": "1KG",
+        "precio": 800,
+        "img": "./assets/maracuya.jpeg"
+    },
+    {
+        "nombre": "Pote de helado",
+        "sabor": "Oreo",
+        "peso": "1KG",
+        "precio": 800,
+        "img": "./assets/oreo.jpeg"
+    },
+    {
+        "nombre": "Pote de helado",
+        "sabor": "Chocolate Carpino",
+        "peso": "1KG",
+        "precio": 800,
+        "img": "./assets/chocolatecarpino.jpeg"
+    },
+    {
+        "nombre": "Pote de helado",
+        "sabor": "Manjar blanco",
+        "peso": "1KG",
+        "precio": 800,
+        "img": "./assets/manjarblanco.jpeg"
+    }
+]
